@@ -1,7 +1,6 @@
 
 
-    --[[
-    Anti DarkDex and Simple Spy
+    --Anti DarkDex and Simple Spy
     spawn(function()
         while wait() do
             pcall(function()
@@ -15,7 +14,6 @@
             end)
         end
     end)
-    ]]
 
     do 
         local ui1 = game:GetService("CoreGui"):FindFirstChild("D Hub") 
